@@ -1,2 +1,0 @@
-# workshopDemoReactSACC
-Created with CodeSandbox
